@@ -1,0 +1,33 @@
+.notFoundDiv{
+    background-color: #95c2de;  
+}
+
+.mainbox{
+    background-color: #95c2de;
+    margin: auto;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+.errDiv{
+    color: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 11rem;
+    position:absolute;
+    left: 20%;
+    top: 8%;
+}
+
+.errDiv2{
+    left: 68%;
+    top: 8%;
+}
+
+.styledI{
+    position: absolute;
+    font-size: 8.5rem;
+    left: 42%;
+    top: 15%;
+    color: #ffffff;
+}

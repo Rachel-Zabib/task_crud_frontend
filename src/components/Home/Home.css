@@ -1,0 +1,19 @@
+.deleteDiv{
+    display: inline-block;
+    color: red;  
+}
+
+.deleteDiv:hover{
+    cursor: pointer;
+}
+.homeDiv{
+    width: 40%;
+    margin: 0 auto;
+}
+.textTask{
+    font-size:18px;
+}
+
+.completedTask{
+    text-decoration: line-through;
+}
